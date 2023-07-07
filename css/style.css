@@ -5,6 +5,9 @@
 header{
     background-color: #f0f;
     height: 10vh;
+    padding-left: 10px;
 }
 h1{line-height: 10vh;}
 main{padding: 10px;}
+footer{display: flex;justify-content: end;padding: 5px;}
+footer a{margin: 0 5px;}
