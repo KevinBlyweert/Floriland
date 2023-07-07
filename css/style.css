@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    padding: 0;margin: 0;
+}
+header{
+    background-color: #f0f;
+    height: 10vh;
+}
+h1{line-height: 10vh;}
+main{padding: 10px;}
